@@ -30,3 +30,7 @@ or
 http://www.baidu.com/s?wd=search533 Get http://www.baidu.com/s?wd=search533: read tcp 220.181.111.188:80: connection reset by peer
 url is http://www.baidu.com/s?wd=search533, goroutine id is 537
 ```
+
+AUTHOR
+
+zhangqi Jason asd1986_n@126.com
